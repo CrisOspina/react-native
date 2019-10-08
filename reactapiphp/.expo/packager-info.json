@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 12528,
+  "expoServerNgrokUrl": "https://ti-irt.anonymous.reactapiphp.exp.direct",
+  "packagerNgrokUrl": "https://packager.ti-irt.anonymous.reactapiphp.exp.direct",
+  "ngrokPid": 7620,
+  "webpackServerPort": 19006
+}
